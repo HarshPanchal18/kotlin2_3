@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:2:1-29:12
+ADDED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:2:1-33:12
 MERGED from [com.android.databinding:adapters:7.2.1] C:\Users\HP\.gradle\caches\transforms-3\539af5dd5deb2d4f59549beb007df591\transformed\adapters-7.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.databinding:library:7.2.1] C:\Users\HP\.gradle\caches\transforms-3\74a5ffb8f779006b52a2e02e47e2273f\transformed\library-7.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.databinding:viewbinding:7.2.1] C:\Users\HP\.gradle\caches\transforms-3\a2eeb96fadd9354a5604cc222358823b\transformed\viewbinding-7.2.1\AndroidManifest.xml:17:1-24:12
@@ -46,27 +46,27 @@ MERGED from [com.android.support:interpolator:28.0.0] C:\Users\HP\.gradle\caches
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\HP\.gradle\caches\transforms-3\d12f6822300ec18995cceeba2359b9a3\transformed\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\HP\.gradle\caches\transforms-3\e456714d8eedb7bbfdb7521217d8ea15\transformed\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\HP\.gradle\caches\transforms-3\c3adbd25bd55a1bb4a5b400bdb3dbd01\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:2:1-33:12
 	package
 		ADDED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:4:5-36
 		INJECTED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml
 		INJECTED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml
-		ADDED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:2:1-29:12
+		ADDED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:2:1-33:12
 		INJECTED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml
-		ADDED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:2:1-29:12
+		ADDED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:2:1-33:12
 		INJECTED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:6:5-27:19
+ADDED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:6:5-31:19
 MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\HP\.gradle\caches\transforms-3\751d3d5137b4b7f07fe8cf5f19e0b949\transformed\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\HP\.gradle\caches\transforms-3\751d3d5137b4b7f07fe8cf5f19e0b949\transformed\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:design:28.0.0] C:\Users\HP\.gradle\caches\transforms-3\a13b6430ff6bd0e4d4ccd17f009b85aa\transformed\design-28.0.0\AndroidManifest.xml:22:5-20
@@ -96,25 +96,29 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\HP\.gradle
 	android:dataExtractionRules
 		ADDED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:8:9-65
 activity#com.example.kotlin2_3.MainActivity
-ADDED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:17:9-25:20
+ADDED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:19:9-27:20
 	android:exported
-		ADDED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:19:13-36
+		ADDED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:21:13-36
 	android:name
-		ADDED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:18:13-41
+		ADDED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:20:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:20:13-24:29
+ADDED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
-ADDED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:21:17-69
+ADDED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:21:25-66
+		ADDED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:23:17-77
+ADDED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:23:27-74
+		ADDED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:25:27-74
 activity#com.example.kotlin2_3.secondActivity
-ADDED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:26:9-51
+ADDED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:28:9-52
 	android:name
-		ADDED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:26:19-49
+		ADDED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:28:19-49
+activity#com.example.kotlin2_3.HobbiesActivity
+ADDED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:29:9-53
+	android:name
+		ADDED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml:29:19-50
 uses-sdk
 INJECTED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\dev\kotlin2_3\app\src\main\AndroidManifest.xml

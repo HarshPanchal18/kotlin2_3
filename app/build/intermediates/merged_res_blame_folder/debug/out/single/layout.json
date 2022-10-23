@@ -1,14 +1,26 @@
 [
     {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.kotlin2_3.app-mergeDebugResources-18:\\layout\\activity_hobbies.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.kotlin2_3.app-main-21:\\layout\\activity_hobbies.xml"
+    },
+    {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.kotlin2_3.app-mergeDebugResources-18:\\layout\\activity_main.xml",
         "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.kotlin2_3.app-main-21:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.kotlin2_3.app-mergeDebugResources-18:\\layout\\list_item.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.kotlin2_3.app-main-21:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.kotlin2_3.app-mergeDebugResources-18:\\layout\\activity_hobby.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.kotlin2_3.app-main-21:\\layout\\activity_hobby.xml"
     },
     {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.kotlin2_3.app-mergeDebugResources-18:\\layout\\activity_second.xml",
         "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.kotlin2_3.app-main-21:\\layout\\activity_second.xml"
     },
     {
-        "merged": "com.example.kotlin2_3.app-mergeDebugResources-18:/layout/activity_second.xml",
-        "source": "com.example.kotlin2_3.app-main-21:/layout/activity_second.xml"
+        "merged": "com.example.kotlin2_3.app-mergeDebugResources-18:/layout/activity_main.xml",
+        "source": "com.example.kotlin2_3.app-main-21:/layout/activity_main.xml"
     }
 ]

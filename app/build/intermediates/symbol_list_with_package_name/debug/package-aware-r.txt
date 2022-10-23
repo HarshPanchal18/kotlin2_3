@@ -1232,6 +1232,7 @@ id beginning
 id blocking
 id bottom
 id bounce
+id btnR
 id btnShowToast
 id buttonPanel
 id cache_measures
@@ -1309,6 +1310,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imgShare
 id info
 id invisible
 id italic
@@ -1362,6 +1364,7 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
+id recyclerView
 id reverseSawtooth
 id right
 id right_icon
@@ -1449,6 +1452,7 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id txvTitle
 id txvUserMessage
 id uniform
 id unlabeled
@@ -1508,6 +1512,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_hobbies
 layout activity_main
 layout activity_second
 layout design_bottom_navigation_item
@@ -1524,6 +1529,7 @@ layout design_navigation_item_subheader
 layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_password_icon
+layout list_item
 layout mtrl_layout_snackbar
 layout mtrl_layout_snackbar_include
 layout notification_action

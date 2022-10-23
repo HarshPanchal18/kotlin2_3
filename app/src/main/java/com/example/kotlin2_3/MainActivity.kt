@@ -8,8 +8,8 @@ import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
 import android.widget.Toast
-
 import kotlinx.android.synthetic.main.activity_main.*
+
 /*
 to add this, append
 id 'kotlin-android'
@@ -23,34 +23,33 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val btn:Button=findViewById(R.id.btnShowToast)
-        val msgbtn:Button=findViewById(R.id.sendIntent)
+//        val btn: Button = findViewById(R.id.btnShowToast)
+        val msgbtn: Button = findViewById(R.id.sendIntent)
+        val btnRR: Button = findViewById(R.id.btnR)
 
-        btn.setOnClickListener{
+        var phone: EditText
+        btnShowToast.setOnClickListener {
             Toast.makeText(this, "Clicked ! ", Toast.LENGTH_SHORT).show()
         }
 
         msgbtn.setOnClickListener {
             val message = findViewById<EditText>(R.id.usermessage).text.toString()
-            //val mssg:String=message.text.toString()
 
             Toast.makeText(this, message, Toast.LENGTH_LONG).show()
             var showmsg = findViewById<TextView>(R.id.msgtxt)
-            showmsg.text=message
-            Log.i("Harsh",message)
-            //showmsg=message
+            showmsg.text = message
+            Log.i("Harsh", message)
 
             var intent = Intent(this, secondActivity::class.java)
-            Log.i("Harsh",message)
+            Log.i("Harsh", message)
             intent.putExtra("user_message", message)
             startActivity(intent)
 
-            /*val intent= Intent(applicationContext, secondActivity::class.java)
-            startActivity(intent)
-*/
-            /*val intentEntrar = Intent(this@MainActivity, secondActivity::class.java)
-            intentEntrar.putExtra("user_message", message)
-            startActivity(intentEntrar)*/
         }
+
+        btnRR.setOnClickListener {
+            startActivity(Intent(this, HobbiesActivity::class.java))
+        }
+
     }
 }

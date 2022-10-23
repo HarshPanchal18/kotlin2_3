@@ -21,6 +21,12 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.Kotlin2_3" >
+
+        <!--
+                    <activity
+                    android:name=".HobbiesActivity"
+                    android:exported="false" />
+        -->
         <activity
             android:name="com.example.kotlin2_3.MainActivity"
             android:exported="true" >
@@ -31,6 +37,7 @@
             </intent-filter>
         </activity>
         <activity android:name="com.example.kotlin2_3.secondActivity" />
+        <activity android:name="com.example.kotlin2_3.HobbiesActivity" />
     </application>
 
 </manifest>

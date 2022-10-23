@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/dev/kotlin2_3/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/dev/kotlin2_3/app/src/main/res/layout/activity_hobbies.xml" value="0.1" />
+        <entry key="..\:/dev/kotlin2_3/app/src/main/res/layout/activity_hobby.xml" value="0.22" />
+        <entry key="..\:/dev/kotlin2_3/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/dev/kotlin2_3/app/src/main/res/layout/activity_second.xml" value="0.25" />
+        <entry key="..\:/dev/kotlin2_3/app/src/main/res/layout/list_item.xml" value="0.1" />
       </map>
     </option>
   </component>
