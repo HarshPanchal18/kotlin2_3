@@ -17,7 +17,7 @@
                     android:name=".HobbiesActivity"
                     android:exported="false" />-->
         <activity
-            android:name=".MainActivity"
+            android:name="com.example.kotlin2_3.activities.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -25,8 +25,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".secondActivity" />
-        <activity android:name=".HobbiesActivity" />
+        <activity android:name="com.example.kotlin2_3.activities.secondActivity" />
+        <activity android:name="com.example.kotlin2_3.activities.HobbiesActivity" />
 
     </application>
 

@@ -6,8 +6,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity"
-    android:padding="10dp">
+    android:padding="10dp"
+    tools:context="com.example.kotlin2_3.activities.MainActivity">
 
 
     <EditText
@@ -25,7 +25,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        android:onClick="onIntent"
         android:text="Send Data To Next Activity"
         app:layout_constraintBottom_toTopOf="@+id/btnShowToast"
         app:layout_constraintEnd_toEndOf="parent"
