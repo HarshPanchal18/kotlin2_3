@@ -1,7 +1,7 @@
 [
     {
-        "merged": "com.example.kotlin2_3.app-merged_res-19:/layout_activity_second.xml.flat",
-        "source": "com.example.kotlin2_3.app-main-21:/layout/activity_second.xml"
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.kotlin2_3.app-merged_res-19:\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.kotlin2_3.app-main-21:\\layout\\list_item.xml"
     },
     {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.kotlin2_3.app-merged_res-19:\\mipmap-xxhdpi_ic_launcher.webp.flat",
@@ -12,12 +12,20 @@
         "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.kotlin2_3.app-main-21:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.kotlin2_3.app-merged_res-19:\\layout_activity_hobby.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.kotlin2_3.app-main-21:\\layout\\activity_hobby.xml"
+    },
+    {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.kotlin2_3.app-merged_res-19:\\xml_data_extraction_rules.xml.flat",
         "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.kotlin2_3.app-main-21:\\xml\\data_extraction_rules.xml"
     },
     {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.kotlin2_3.app-merged_res-19:\\navigation_nav_graph.xml.flat",
         "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.kotlin2_3.app-main-21:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "com.example.kotlin2_3.app-merged_res-19:/layout_activity_main.xml.flat",
+        "source": "com.example.kotlin2_3.app-main-21:/layout/activity_main.xml"
     },
     {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.kotlin2_3.app-merged_res-19:\\mipmap-hdpi_ic_launcher.webp.flat",
@@ -56,12 +64,16 @@
         "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.kotlin2_3.app-main-21:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.kotlin2_3.app-merged_res-19:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.kotlin2_3.app-main-21:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.kotlin2_3.app-merged_res-19:\\drawable-v24_ic_launcher_foreground.xml.flat",
         "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.kotlin2_3.app-main-21:\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.kotlin2_3.app-merged_res-19:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.kotlin2_3.app-main-21:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.kotlin2_3.app-merged_res-19:\\layout_activity_hobbies.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.kotlin2_3.app-main-21:\\layout\\activity_hobbies.xml"
     },
     {
         "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.kotlin2_3.app-merged_res-19:\\xml_backup_rules.xml.flat",

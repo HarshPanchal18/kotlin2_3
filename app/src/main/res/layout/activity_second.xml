@@ -4,18 +4,18 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".secondActivity">
+    tools:context="com.example.kotlin2_3.activities.secondActivity">
 
     <TextView
         android:id="@+id/txvUserMessage"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="30sp"
-        android:textStyle="bold"
-        android:textColor="#f40d30"
-        android:textAlignment="center"
         android:layout_margin="20dp"
         android:text="TextView"
+        android:textAlignment="center"
+        android:textColor="#f40d30"
+        android:textSize="30sp"
+        android:textStyle="bold"
         tools:ignore="MissingConstraints" />
 
     <Button
@@ -58,8 +58,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/usrmsg" />
 
-</android.support.constraint.ConstraintLayout>
-<!--<LinearLayout
+</android.support.constraint.ConstraintLayout><!--<LinearLayout
 xmlns:android="http://schemas.android.com/apk/res/android"
 android:layout_width="match_parent"
 android:layout_height="match_parent"
